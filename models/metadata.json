@@ -1,0 +1,8 @@
+{
+"model_name": "brain_tumor_resnet18",
+"version": "1.0.0",
+"dataset": "Brain MRI Dataset",
+"accuracy": 0.97,
+"trained_on": "2026-01-28",
+"author": "Imen"
+}
